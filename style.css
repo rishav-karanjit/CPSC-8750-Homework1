@@ -1,4 +1,3 @@
-
 * {
 	margin: 0;
 	padding: 0;
@@ -9,11 +8,10 @@
 .Top
 {
 	display: flex;
-	height:30%;
 	padding-bottom:10px;
 	align-items: center;
 	justify-content: space-between;
-	padding: 20px 10% 200px;
+	padding: 1%;
 }
 
 a,
