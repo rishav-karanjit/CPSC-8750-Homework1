@@ -2,3 +2,4 @@
 
 Authors:
 - Rishav Karanjit
+- Rajat Mittal
