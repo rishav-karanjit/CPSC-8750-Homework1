@@ -1,18 +1,4 @@
-* {
-	margin: 0;
-	padding: 0;
-	border:1px ;
-	box-sizing: border-box;
-	background-color: #24252a; /*dark*/
-}
-.Top
-{
-	display: flex;
-	padding-bottom:10px;
-	align-items: center;
-	justify-content: space-between;
-	padding: 1%;
-}
+
 
 a,
 li,
