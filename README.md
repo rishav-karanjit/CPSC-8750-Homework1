@@ -5,4 +5,5 @@ Authors:
 - Rajat Mittal
 - Madhuvanth
 - Akash 
+- Nico Weckardt
 
