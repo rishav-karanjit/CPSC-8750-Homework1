@@ -1,4 +1,11 @@
-
+.Top
+{
+	display: flex;
+	padding-bottom:10px;
+	align-items: center;
+	justify-content: space-between;
+	padding: 1%;
+}
 
 a,
 li,
