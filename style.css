@@ -45,6 +45,12 @@ div
 	color:#fff;
 }
 
+
+.desc {
+	padding:16px;
+}
+
+
 section
 {
 	display:grid;
